@@ -1,15 +1,22 @@
 {
     "name": "dwsproduct/imageupload",
-    "description": "the image upload package in laravel",
-    "type": "composer-plugin",
+    "description": "The image upload package in Laravel",
+    "type": "library",
     "license": "proprietary",
     "authors": [
         {
-            "name": "sarthi pithadiya"
+            "name": "Sarthi Pithadiya"
         }
     ],
     "minimum-stability": "dev",
     "prefer-stable": true,
     "require": {
-        "dwsproduct/imageupload": "main"
-    }}
+        "php": "^7.3",
+        "illuminate/support": "^8.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Dwsproduct\\ImageUpload\\": "src/"
+        }
+    }
+}
