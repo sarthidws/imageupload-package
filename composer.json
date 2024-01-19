@@ -11,5 +11,5 @@
     "minimum-stability": "dev",
     "prefer-stable": true,
     "require": {
-        "dwsproduct/imageupload": "dev-main"
+        "dwsproduct/imageupload": "main"
     }}
