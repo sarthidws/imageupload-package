@@ -8,6 +8,8 @@
             "name": "sarthi pithadiya"
         }
     ],
-    "minimum-stability": "beta",
-    "require": {}
-}
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "require": {
+        "dwsproduct/imageupload": "dev-main"
+    }}
