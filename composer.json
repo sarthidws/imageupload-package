@@ -1,0 +1,13 @@
+{
+    "name": "dwsproduct/imageupload",
+    "description": "the image upload package in laravel",
+    "type": "composer-plugin",
+    "license": "DWS",
+    "authors": [
+        {
+            "name": "sarthi pithadiya"
+        }
+    ],
+    "minimum-stability": "beta",
+    "require": {}
+}
