@@ -8,6 +8,7 @@
             "name": "Sarthi Pithadiya"
         }
     ],
+    "minimum-stability": "stable",
     "prefer-stable": true,
     "require": {
         "php": "^8.1",
