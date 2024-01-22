@@ -8,9 +8,14 @@
             "name": "Sarthi Pithadiya | DWS "
         }
     ],
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "prefer-stable": true,
-  
+    "require": {
+        "php": "^8.1",
+        "illuminate/support": "^8.0",
+        "dwsproduct/imageupload": "1.0.0"
+
+    },
     "extra": {
         "laravel": {
             "providers": [
