@@ -13,16 +13,16 @@
     "require": {
         "php": "^8.1"
     },
-    "extra": {
-        "laravel": {
-            "providers": [
-                "Dwsproduct\\ImageUpload\\src\\ImageUploadProvider"
-            ]
-        }
-    },
     "autoload": {
         "psr-4": {
             "Dwsproduct\\ImageUpload\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Dwsproduct\\ImageUpload\\ImageUploadProvider"
+            ]
         }
     }
 }
