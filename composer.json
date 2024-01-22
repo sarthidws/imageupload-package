@@ -10,10 +10,7 @@
     ],
     "minimum-stability": "dev",
     "prefer-stable": true,
-    "require": {
-        "dwsproduct/imageupload": "dev-main"
-
-    },
+  
     "extra": {
         "laravel": {
             "providers": [
