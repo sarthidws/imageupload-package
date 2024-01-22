@@ -16,7 +16,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Dwsproduct\\ImageUpload\\ImageUploadProvider"
+                "Dwsproduct\\ImageUpload\\src\\ImageUploadProvider"
             ]
         }
     },
